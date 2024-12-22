@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on pattern recognition.
+- 🌱 I’m currently learning deep learning.
+
 <!--
 **rvmkvh/rvmkvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
